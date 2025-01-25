@@ -1,0 +1,52 @@
+[tool.poetry]
+name = "ai-4"
+version = "0.1.0"
+description = ""
+authors = ["ViktorKozh <viktor.ru253@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+mypy = "^1.13.0"
+ruff = "^0.8.3"
+isort = "^5.13.2"
+flake8 = "^7.1.1"
+pre-commit = "^4.0.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.black]
+line-length = 88
+exclude = '''
+(
+    pycache
+)
+'''
+
+[tool.flake8]
+max-line-length = 88
+extend-exclude = 'pycache'
+
+[tool.isort]
+profile = "black"
+skip = 'pycache'
+
+[tool.mypy]
+strict = true
+ignore_missing_imports = true
+
+[tool.pytest.ini_options]
+minversion = "7.0"
+addopts = "-ra -q -p no:warnings"
+testpaths = [
+    "tests"
+]
+pythonpath = [
+    "src"
+]

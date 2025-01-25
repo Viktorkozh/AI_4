@@ -1,0 +1,423 @@
+[
+    {
+        "data": {
+            "id": "1",
+            "label": "Кола"
+        }
+    },
+    {
+        "data": {
+            "id": "2",
+            "label": "Мурманск"
+        }
+    },
+    {
+        "data": {
+            "id": "3",
+            "label": "Териберка"
+        }
+    },
+    {
+        "data": {
+            "id": "4",
+            "label": "Туманный"
+        }
+    },
+    {
+        "data": {
+            "id": "5",
+            "label": "Североморск"
+        }
+    },
+    {
+        "data": {
+            "id": "6",
+            "label": "Лопарская"
+        }
+    },
+    {
+        "data": {
+            "id": "7",
+            "label": "Оленегорск"
+        }
+    },
+    {
+        "data": {
+            "id": "8",
+            "label": "Мончегорск"
+        }
+    },
+    {
+        "data": {
+            "id": "9",
+            "label": "Ревда"
+        }
+    },
+    {
+        "data": {
+            "id": "10",
+            "label": "Дальние Зленцы"
+        }
+    },
+    {
+        "data": {
+            "id": "11",
+            "label": "Полярные зори"
+        }
+    },
+    {
+        "data": {
+            "id": "12",
+            "label": "Ловозеро"
+        }
+    },
+    {
+        "data": {
+            "id": "13",
+            "label": "Апатиты"
+        }
+    },
+    {
+        "data": {
+            "id": "14",
+            "label": "Верхнетуломский"
+        }
+    },
+    {
+        "data": {
+            "id": "15",
+            "label": "Видяево"
+        }
+    },
+    {
+        "data": {
+            "id": "16",
+            "label": "Никель"
+        }
+    },
+    {
+        "data": {
+            "id": "17",
+            "label": "Печенга"
+        }
+    },
+    {
+        "data": {
+            "id": "18",
+            "label": "Заполярный"
+        }
+    },
+    {
+        "data": {
+            "id": "19",
+            "label": "Заозерск"
+        }
+    },
+    {
+        "data": {
+            "id": "20",
+            "label": "Киркенес"
+        }
+    },
+    {
+        "data": {
+            "source": "2",
+            "target": "1",
+            "weight": 12.5
+        }
+    },
+    {
+        "data": {
+            "source": "3",
+            "target": "2",
+            "weight": 130
+        }
+    },
+    {
+        "data": {
+            "source": "4",
+            "target": "2",
+            "weight": 134
+        }
+    },
+    {
+        "data": {
+            "source": "5",
+            "target": "2",
+            "weight": 31
+        }
+    },
+    {
+        "data": {
+            "source": "5",
+            "target": "3",
+            "weight": 118
+        }
+    },
+    {
+        "data": {
+            "source": "6",
+            "target": "1",
+            "weight": 38
+        }
+    },
+    {
+        "data": {
+            "source": "6",
+            "target": "2",
+            "weight": 45
+        }
+    },
+    {
+        "data": {
+            "source": "7",
+            "target": "1",
+            "weight": 95
+        }
+    },
+    {
+        "data": {
+            "source": "7",
+            "target": "2",
+            "weight": 107
+        }
+    },
+    {
+        "data": {
+            "source": "7",
+            "target": "6",
+            "weight": 69
+        }
+    },
+    {
+        "data": {
+            "source": "8",
+            "target": "6",
+            "weight": 97
+        }
+    },
+    {
+        "data": {
+            "source": "9",
+            "target": "3",
+            "weight": 257
+        }
+    },
+    {
+        "data": {
+            "source": "9",
+            "target": "6",
+            "weight": 114
+        }
+    },
+    {
+        "data": {
+            "source": "9",
+            "target": "8",
+            "weight": 101
+        }
+    },
+    {
+        "data": {
+            "source": "10",
+            "target": "5",
+            "weight": 164
+        }
+    },
+    {
+        "data": {
+            "source": "10",
+            "target": "6",
+            "weight": 194
+        }
+    },
+    {
+        "data": {
+            "source": "11",
+            "target": "6",
+            "weight": 179
+        }
+    },
+    {
+        "data": {
+            "source": "11",
+            "target": "8",
+            "weight": 91
+        }
+    },
+    {
+        "data": {
+            "source": "12",
+            "target": "7",
+            "weight": 83
+        }
+    },
+    {
+        "data": {
+            "source": "12",
+            "target": "8",
+            "weight": 112
+        }
+    },
+    {
+        "data": {
+            "source": "12",
+            "target": "11",
+            "weight": 194
+        }
+    },
+    {
+        "data": {
+            "source": "13",
+            "target": "7",
+            "weight": 95
+        }
+    },
+    {
+        "data": {
+            "source": "13",
+            "target": "11",
+            "weight": 85
+        }
+    },
+    {
+        "data": {
+            "source": "14",
+            "target": "2",
+            "weight": 77
+        }
+    },
+    {
+        "data": {
+            "source": "14",
+            "target": "4",
+            "weight": 191
+        }
+    },
+    {
+        "data": {
+            "source": "15",
+            "target": "2",
+            "weight": 76
+        }
+    },
+    {
+        "data": {
+            "source": "15",
+            "target": "4",
+            "weight": 192
+        }
+    },
+    {
+        "data": {
+            "source": "15",
+            "target": "14",
+            "weight": 132
+        }
+    },
+    {
+        "data": {
+            "source": "16",
+            "target": "15",
+            "weight": 171
+        }
+    },
+    {
+        "data": {
+            "source": "17",
+            "target": "7",
+            "weight": 221
+        }
+    },
+    {
+        "data": {
+            "source": "17",
+            "target": "15",
+            "weight": 117
+        }
+    },
+    {
+        "data": {
+            "source": "17",
+            "target": "16",
+            "weight": 56
+        }
+    },
+    {
+        "data": {
+            "source": "18",
+            "target": "1",
+            "weight": 151
+        }
+    },
+    {
+        "data": {
+            "source": "18",
+            "target": "15",
+            "weight": 140
+        }
+    },
+    {
+        "data": {
+            "source": "18",
+            "target": "16",
+            "weight": 33
+        }
+    },
+    {
+        "data": {
+            "source": "18",
+            "target": "17",
+            "weight": 24.8
+        }
+    },
+    {
+        "data": {
+            "source": "19",
+            "target": "2",
+            "weight": 110
+        }
+    },
+    {
+        "data": {
+            "source": "19",
+            "target": "16",
+            "weight": 119
+        }
+    },
+    {
+        "data": {
+            "source": "19",
+            "target": "17",
+            "weight": 66
+        }
+    },
+    {
+        "data": {
+            "source": "19",
+            "target": "18",
+            "weight": 88
+        }
+    },
+    {
+        "data": {
+            "source": "20",
+            "target": "17",
+            "weight": 87
+        }
+    },
+    {
+        "data": {
+            "source": "20",
+            "target": "18",
+            "weight": 64
+        }
+    },
+    {
+        "data": {
+            "source": "20",
+            "target": "19",
+            "weight": 150
+        }
+    }
+]
